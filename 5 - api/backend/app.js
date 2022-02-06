@@ -5,6 +5,7 @@ const cors = require("cors");
 const vrouter = require('./src/routes/vehiclesRoutes');
 const db = require("./src/config/dbConfig");
 
+
 const app = express();
 
 app.use(cors());

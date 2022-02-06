@@ -84,7 +84,7 @@ const Vehicle = new Schema(
                     'Volkswagen',
                     'Volvo'
                 ],
-                message: '{VALUE} is not accepted'
+                message: '{VALUE} is not acceptable'
             }, 
             required: [true, 'Brand required']  
         },

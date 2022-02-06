@@ -1,7 +1,7 @@
 function sum() {
     let three = 3
     let five = 5
-    let max = 10;
+    let max = 10
     total = 0
 
     for(i=0; i < max; i++){
